@@ -33,9 +33,6 @@ Python • Bash • SQL • MySQL • MariaDB • MongoDB • Linux • Git • 
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=knaveen150107-cmd&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
 <i>Less talking. More building.</i>
