@@ -8,7 +8,6 @@
 </div>
 
 ---
-
 ```bash
 $ whoami
 
