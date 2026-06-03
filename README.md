@@ -1,5 +1,4 @@
 <div align="center">
-
 # Naveen
 
 ### Backend Development • Linux • Open Source
